@@ -31,7 +31,7 @@ Tape Planner is a desktop application designed to assist in optimizing the cutti
 2. **Installation**:
    - Clone the repository: `git clone https://github.com/yourusername/tape-planner.git`
    - Navigate to the project directory: `cd tape-planner/python`
-   - Install dependencies: `pip install -r requirements.txt`
+   - Install dependencies
 
 3. **Run the Application**:
    - Execute the script: `python tape_planner.py`
